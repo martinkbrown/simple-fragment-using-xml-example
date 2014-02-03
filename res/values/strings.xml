@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, FragmentUsingXml!</string>
     <string name="app_name">SimpleFragmentUsingXml</string>
+    <string name="inside_fragment">I\'m running inside of a Fragment!</string>
+    <string name="main_message">I\'m from the Main Activity</string>
 
 </resources>
